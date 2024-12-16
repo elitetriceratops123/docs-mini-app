@@ -15,6 +15,7 @@ const Foreground = () => {
         tagTitle: "Download Now",
         tagColor: "bg-green-600"
       }
+      
     },
     {
       desc: "Lorem ipsum dolor sit, amet consectetur adipisicing.",
