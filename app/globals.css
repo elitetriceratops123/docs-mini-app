@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
 
 ::selection{
   /* color: linear-gradient(140deg, rgba(9, 68, 121, 1) 0%, rgba(36, 0, 18, 1) 25%, rgba(255, 0, 0, 1) 50%, rgba(255, 255, 0, 1) 75%); */
