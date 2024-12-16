@@ -7,8 +7,8 @@ const page = () => {
   return (
     <>
       <div className=' relative  w-full h-screen bg-zinc-800 '>
-        <Foreground />
         <Background/>
+        <Foreground />
       </div>
     </>
   )
